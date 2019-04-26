@@ -65,7 +65,7 @@ at [getcomposer.org](http://getcomposer.org/doc/00-intro.md#installation-nix).
 You can then install the application using the following command:
 
 ~~~
-git clone https://github.com/samdark/yii2-shop.git
+git clone https://github.com/ariansyahn/rekrutmen-dosen.git
 composer self-update
 composer global require "fxp/composer-asset-plugin:~1.1.1"
 cd rekrutmen
