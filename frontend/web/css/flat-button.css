@@ -1,0 +1,44 @@
+.cari-button {
+    background-color: #ffab00 ; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+
+
+.cari-button:hover {
+    background-color: #f4a259; /* Green */
+    color: white;
+}
+
+
+.big-button{
+    background-color: #ffab00 ; /* Green */
+    border: none;
+    color: white;
+    width: 245px;
+    padding: 20px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    border-bottom: solid 5px #ffab00;
+}
+
+.big-button:hover{
+    color: white;
+    border-bottom: solid 5px #29335c;
+}
+
+.register-menu {
+    width: 500px;
+    padding: 2% 0 0;
+    margin: auto;
+}
